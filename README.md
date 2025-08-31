@@ -100,7 +100,7 @@ Copy code
 ---
 
 ## 🔗 **Check the Complete Notebook on Kaggle**
-📌 [**View Full Project on Kaggle**](https://kaggle.com/) *(Replace with your Kaggle notebook link)*  
+📌 [**View Full Project on Kaggle**](https://www.kaggle.com/code/pranshuljoshi/social-meida-ad-analysis) 
 
 ---
 
