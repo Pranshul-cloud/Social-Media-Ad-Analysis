@@ -94,7 +94,7 @@ social-media-ad-analysis/
 │── Social_Media_Ad_Analysis.ipynb  # Main Jupyter Notebook
 │── README.md                       # Project documentation
 
----
+---bash
 
 ## 🔗 **Check the Complete Notebook on Kaggle**
 📌 [**View Full Project on Kaggle**](https://www.kaggle.com/code/pranshuljoshi/social-meida-ad-analysis) 
