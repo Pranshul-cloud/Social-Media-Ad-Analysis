@@ -20,7 +20,7 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 ## 📂 **Dataset Information**  
 - **Source:** Kaggle  
 - **File:** `Social_Media_Ad.csv`
-- **Shape:** *XX rows × XX columns* *(replace with actual numbers)*  
+- **Shape:** *200 rows × 7 columns* *(replace with actual numbers)*  
 - **Key Features:**
     - **Gender 👩‍🦰👨‍🦱** → Target audience demographics  
     - **Age 🎂** → Customer segmentation  
@@ -94,7 +94,7 @@ social-media-ad-analysis/
 │── Social_Media_Ad_Analysis.ipynb  # Main Jupyter Notebook
 │── README.md                       # Project documentation
 
----bash
+---
 
 ## 🔗 **Check the Complete Notebook on Kaggle**
 📌 [**View Full Project on Kaggle**](https://www.kaggle.com/code/pranshuljoshi/social-meida-ad-analysis) 
