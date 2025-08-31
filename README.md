@@ -84,7 +84,7 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 - Identified **high-performing demographics** for better ROI  
 - Recommended **ad targeting strategies** to reduce wasted spend  
 
----
+--- 
 
 ## 📂 Project Structure  
 
@@ -95,7 +95,7 @@ social-media-ad-analysis/
 │── README.md                       # Project documentation
 
 ---
----
+
 ## 🔗 **Check the Complete Notebook on Kaggle**
 📌 [**View Full Project on Kaggle**](https://www.kaggle.com/code/pranshuljoshi/social-meida-ad-analysis) 
 
