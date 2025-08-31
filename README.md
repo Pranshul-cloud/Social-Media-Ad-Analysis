@@ -86,16 +86,13 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 
 ---
 
-## 📎 **Project Structure**
-social-media-ad-analysis/
-│── data/ # Optional data storage
-│── Social_Media_Ad.csv # Dataset used
-│── Social_Media_Ad_Analysis.ipynb # Main notebook
-│── README.md # Project documentation
-│── images/ # Plots & visuals (optional)
+## 📂 Project Structure  
 
-yaml
-Copy code
+```bash
+social-media-ad-analysis/
+│── Social_Media_Ad.csv             # Dataset used for analysis
+│── Social_Media_Ad_Analysis.ipynb  # Main Jupyter Notebook
+│── README.md                       # Project documentation
 
 ---
 
