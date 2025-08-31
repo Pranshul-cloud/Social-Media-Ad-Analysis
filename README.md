@@ -103,8 +103,4 @@ social-media-ad-analysis/
 
 ---
 
-## 🏆 **Why This Project Stands Out**
-✔ **Professional formatting** recruiters love  
-✔ **Business-focused storytelling** instead of just graphs  
-✔ **Clean, concise, and visually attractive**  
-✔ Highlights **insights + impact** → exactly what recruiters look for 
+
