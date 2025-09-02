@@ -21,11 +21,6 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 - **Source:** Kaggle  
 - **File:** `Social_Media_Ad.csv`
 - **Shape:** *200 rows × 7 columns* *(replace with actual numbers)*  
-- **Key Features:**
-    - **Gender 👩‍🦰👨‍🦱** → Target audience demographics  
-    - **Age 🎂** → Customer segmentation  
-    - **EstimatedSalary 💰** → Income range insights  
-    - **Purchased 🛍️** → Conversion flag (1 = Purchased, 0 = No)  
 
 ---
 
@@ -44,7 +39,7 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 🐍 **Python** | Core programming  
 📊 **Pandas & NumPy** | Data manipulation & cleaning  
 🎨 **Matplotlib & Seaborn** | Stunning visualizations  
-📓 **Jupyter Notebook** | Code, analysis, and insights  
+📓 **Kaggle Notebook** | Code, analysis, and insights  
 
 ---
 
