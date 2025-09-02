@@ -76,7 +76,7 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 
 ## 🚀 **Results**
 - Discovered **customer behavior patterns** influencing conversions  
-- Identified **high-performing demographics** for better ROI  
+- Identified **high-performing Ads and Platforms** for better ROI  
 - Recommended **ad targeting strategies** to reduce wasted spend  
 
 --- 
