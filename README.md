@@ -20,7 +20,7 @@ This project analyzes ad campaign data to explore **audience behavior, conversio
 ## 📂 **Dataset Information**  
 - **Source:** Kaggle  
 - **File:** `Social_Media_Ad.csv`
-- **Shape:** *200 rows × 7 columns* *(replace with actual numbers)*  
+- **Shape:** *200 rows × 7 columns* 
 
 ---
 
